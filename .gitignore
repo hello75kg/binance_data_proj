@@ -2,4 +2,6 @@ conf.ini
 /.idea/binance_proj.iml
 /.idea/misc.xml
 /.idea
+/data/.idea
+*/.idea
 /tradingbot/data
